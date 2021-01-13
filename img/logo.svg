@@ -1,1 +1,395 @@
-<svg id="Capa_1" enable-background="new 0 0 512 512" height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg"><g><g><path d="m97.324 85.554 91.916 60.475 16.447-24.999-78.439-51.608v-23.144l-14.962-7.833-14.962 7.833z" fill="#6058ac"/><path d="m97.324 0h29.924v46.278h-29.924z" fill="#27eb8d"/><path d="m384.752 46.278v22.954l-80.932 51.005 15.953 25.315 94.903-59.808v-39.466l-14.962-10.352z" fill="#4a4191"/><path d="m384.752 0h29.924v46.278h-29.924z" fill="#1db9a0"/></g><g><g><path d="m67.875 374.456h78.58v29.924h-78.58z" fill="#4a4191"/></g><g><path d="m365.835 374.456h78.29v29.924h-78.29z" fill="#3f338a"/></g><g><path d="m67.875 305.283h78.58v29.924h-78.58z" fill="#4a4191"/></g><g><path d="m365.835 305.283h78.29v29.924h-78.29z" fill="#3f338a"/></g><g><path d="m67.875 228.563h78.58v29.924h-78.58z" fill="#4a4191"/></g><g><path d="m365.835 228.563h78.29v29.924h-78.29z" fill="#3f338a"/></g><g><g><path d="m94.643 453.479h91.233v29.924h-91.233z" fill="#4a4191" transform="matrix(.682 -.731 .731 .682 -297.918 251.391)"/></g><g><path d="m352.797 423.321h29.923v90.624h-29.923z" fill="#3f338a" transform="matrix(.732 -.681 .681 .732 -220.699 376)"/></g></g></g><g><g><path d="m255.999 102.359c-69.588 0-126.203 56.615-126.203 126.204l126.204 95.711.824-.625 21.101-117.493-21.101-103.776c-.276-.002-.548-.021-.825-.021z" fill="#9290db"/><path d="m256.825 102.379v221.269l125.378-95.086c0-69.312-56.169-125.735-125.378-126.183z" fill="#6058ac"/></g><g><path d="m129.797 228.563v132.674c0 69.589 56.615 126.203 126.204 126.203.276 0 .548-.019.824-.021l21.101-147.733-21.101-111.123z" fill="#6058ac"/></g><path d="m256.825 228.563v258.856c69.208-.447 125.378-56.869 125.378-126.182v-132.674z" fill="#4a4191"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="486.0974975585937px"
+   height="122.021240234375px"
+   viewBox="6.951251220703142 13.9893798828125 486.0974975585937 122.021240234375"
+   style="background: rgba(0, 0, 0, 0);"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="0.82082299"
+     inkscape:cx="87.292779"
+     inkscape:cy="-36.097556"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g95" />
+  <defs
+     id="defs19">
+    <filter
+       id="editing-vr">
+      <feFlood
+         flood-color="#f00"
+         flood-opacity="0.7"
+         result="c1"
+         id="feFlood2" />
+      <feFlood
+         flood-color="#00f"
+         flood-opacity="0.7"
+         result="c3"
+         id="feFlood4" />
+      <feComposite
+         operator="in"
+         in="c1"
+         in2="SourceAlpha"
+         result="text-c1"
+         id="feComposite6" />
+      <feComposite
+         operator="in"
+         in="c3"
+         in2="SourceAlpha"
+         result="text-c3"
+         id="feComposite8" />
+      <feOffset
+         in="text-c1"
+         dx="5"
+         dy="-1"
+         result="text1"
+         id="feOffset10" />
+      <feOffset
+         in="text-c3"
+         dx="-5"
+         dy="1"
+         result="text3"
+         id="feOffset12" />
+      <feBlend
+         in="SourceGraphic"
+         in2="text1"
+         mode="multiply"
+         result="text4"
+         id="feBlend14" />
+      <feBlend
+         in="text4"
+         in2="text3"
+         mode="multiply"
+         id="feBlend16" />
+    </filter>
+    <filter
+       height="300%"
+       width="300%"
+       y="-100%"
+       x="-100%"
+       id="editing-neon">
+      <feFlood
+         id="feFlood925"
+         result="flood"
+         flood-color="#85a2b6" />
+      <feComposite
+         id="feComposite927"
+         result="color"
+         in2="SourceAlpha"
+         in="flood"
+         operator="in" />
+      <feFlood
+         id="feFlood929"
+         result="flood2"
+         flood-color="#85a2b6" />
+      <feComposite
+         id="feComposite931"
+         result="color2"
+         in2="SourceAlpha"
+         in="flood2"
+         operator="in" />
+      <feMorphology
+         id="feMorphology933"
+         result="dilate"
+         in="color"
+         radius="2"
+         operator="dilate" />
+      <feGaussianBlur
+         id="feGaussianBlur935"
+         result="blur1"
+         in="color"
+         stdDeviation="6" />
+      <feGaussianBlur
+         id="feGaussianBlur937"
+         result="blur2"
+         in="color"
+         stdDeviation="2.5" />
+      <feGaussianBlur
+         id="feGaussianBlur939"
+         result="blur3"
+         in="SourceAlpha"
+         stdDeviation="1" />
+      <feGaussianBlur
+         id="feGaussianBlur941"
+         result="blur4"
+         in="dilate"
+         stdDeviation="6" />
+      <feConvolveMatrix
+         id="feConvolveMatrix943"
+         kernelMatrix="1 1 1  1 1 1  1 1 1"
+         divisor="1"
+         order="3,3"
+         result="conv"
+         in="color2" />
+      <feMerge
+         id="feMerge963">
+        <feMergeNode
+           id="feMergeNode945"
+           in="blur1" />
+        <feMergeNode
+           id="feMergeNode947"
+           in="blur2" />
+        <feMergeNode
+           id="feMergeNode949"
+           in="blur4" />
+        <feMergeNode
+           id="feMergeNode951"
+           in="blur3" />
+        <feMergeNode
+           id="feMergeNode953"
+           in="blur3" />
+        <feMergeNode
+           id="feMergeNode955"
+           in="blur3" />
+        <feMergeNode
+           id="feMergeNode957"
+           in="blur3" />
+        <feMergeNode
+           id="feMergeNode959"
+           in="conv" />
+        <feMergeNode
+           id="feMergeNode961"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       height="300%"
+       width="300%"
+       y="-100%"
+       x="-100%"
+       id="editing-hole">
+      <feFlood
+         id="feFlood1223"
+         result="black"
+         flood-color="#000" />
+      <feMorphology
+         id="feMorphology1225"
+         result="erode"
+         in="SourceGraphic"
+         radius="2"
+         operator="dilate" />
+      <feGaussianBlur
+         id="feGaussianBlur1227"
+         result="blur"
+         stdDeviation="4"
+         in="erode" />
+      <feOffset
+         id="feOffset1229"
+         result="offset"
+         dy="2"
+         dx="2"
+         in="blur" />
+      <feComposite
+         id="feComposite1231"
+         result="merge"
+         in2="black"
+         in="offset"
+         operator="atop" />
+      <feComposite
+         id="feComposite1233"
+         result="inner-shadow"
+         in2="SourceGraphic"
+         in="merge"
+         operator="in" />
+    </filter>
+  </defs>
+  <style
+     id="style27">text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style>
+  <g
+     id="g95"
+     transform="matrix(0.13869767,0,0,0.11951464,15.844493,28.385503)">
+    <g
+       id="g43">
+      <path
+         id="path35"
+         d="M 97.324,85.554 189.24,146.029 205.687,121.03 127.248,69.422 V 46.278 l -14.962,-7.833 -14.962,7.833 z"
+         inkscape:connector-curvature="0"
+         style="fill:#8c83cc;fill-opacity:1" />
+      <path
+         id="path37"
+         d="m 97.324,0 h 29.924 V 46.278 H 97.324 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#eb2734;fill-opacity:0.80310878" />
+      <path
+         id="path39"
+         d="m 384.752,46.278 v 22.954 l -80.932,51.005 15.953,25.315 94.903,-59.808 V 46.278 L 399.714,35.926 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#8c83cc;fill-opacity:1" />
+      <path
+         id="path41"
+         d="m 384.752,0 h 29.924 v 46.278 h -29.924 z"
+         inkscape:connector-curvature="0"
+         style="fill:#b9361d;fill-opacity:0.88601032" />
+    </g>
+    <g
+       id="g79">
+      <g
+         id="g47">
+        <path
+           id="path45"
+           d="m 67.875,374.456 h 78.58 v 29.924 h -78.58 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8c83cc;fill-opacity:1" />
+      </g>
+      <g
+         id="g51">
+        <path
+           id="path49"
+           d="m 365.835,374.456 h 78.29 v 29.924 h -78.29 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8c83cc;fill-opacity:1" />
+      </g>
+      <g
+         id="g55">
+        <path
+           id="path53"
+           d="m 67.875,305.283 h 78.58 v 29.924 h -78.58 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8c83cc;fill-opacity:1" />
+      </g>
+      <g
+         id="g59">
+        <path
+           id="path57"
+           d="m 365.835,305.283 h 78.29 v 29.924 h -78.29 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8c83cc;fill-opacity:1" />
+      </g>
+      <g
+         id="g63">
+        <path
+           id="path61"
+           d="m 67.875,228.563 h 78.58 v 29.924 h -78.58 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8c83cc;fill-opacity:1" />
+      </g>
+      <g
+         id="g67">
+        <path
+           id="path65"
+           d="m 365.835,228.563 h 78.29 v 29.924 h -78.29 z"
+           inkscape:connector-curvature="0"
+           style="fill:#8c83cc;fill-opacity:1" />
+      </g>
+      <g
+         id="g77">
+        <g
+           id="g71">
+          <path
+             id="path69"
+             transform="matrix(0.682,-0.731,0.731,0.682,-297.918,251.391)"
+             d="m 94.643,453.479 h 91.233 v 29.924 H 94.643 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#8c83cc;fill-opacity:1" />
+        </g>
+        <g
+           id="g75">
+          <path
+             id="path73"
+             transform="matrix(0.732,-0.681,0.681,0.732,-220.699,376)"
+             d="m 352.797,423.321 h 29.923 v 90.624 h -29.923 z"
+             inkscape:connector-curvature="0"
+             style="fill:#8c83cc;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g93">
+      <g
+         id="g85">
+        <path
+           id="path81"
+           d="m 255.999,102.359 c -69.588,0 -126.203,56.615 -126.203,126.204 L 256,324.274 256.824,323.649 277.925,206.156 256.824,102.38 c -0.276,-0.002 -0.548,-0.021 -0.825,-0.021 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d1d0f9;fill-opacity:1" />
+        <path
+           id="path83"
+           d="m 256.825,102.379 v 221.269 l 125.378,-95.086 c 0,-69.312 -56.169,-125.735 -125.378,-126.183 z"
+           inkscape:connector-curvature="0"
+           style="fill:#aaa4e8;fill-opacity:1" />
+      </g>
+      <g
+         id="g89">
+        <path
+           id="path87"
+           d="m 129.797,228.563 v 132.674 c 0,69.589 56.615,126.203 126.204,126.203 0.276,0 0.548,-0.019 0.824,-0.021 L 277.926,339.686 256.825,228.563 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#aca6eb;fill-opacity:1" />
+      </g>
+      <path
+         id="path91"
+         d="M 256.825,228.563 V 487.419 C 326.033,486.972 382.203,430.55 382.203,361.237 V 228.563 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#948cdb;fill-opacity:1" />
+    </g>
+  </g>
+  <style
+     id="style974">text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style>
+  <g
+     id="g1242"
+     style="filter:url(#editing-hole)"
+     transform="translate(20.464477,-22.421351)">
+    <g
+       id="g1240"
+       transform="translate(78.538754,104.43219)">
+      <path
+         id="path1238"
+         d="m 0.45,-0.32 v 0 l 8.06,-41.92 v 0 q 7.55,-0.64 12.42,-0.64 v 0 0 q 4.86,0 8,0.42 v 0 0 q 3.13,0.41 5.25,1.5 v 0 0 q 4.22,2.05 4.22,7.68 v 0 0 q 0,3.26 -2.82,6.02 v 0 0 q -2.62,2.49 -5.5,3.07 v 0 0 q 3.07,0.51 5.25,2.81 v 0 0 q 2.3,2.44 2.3,6.21 v 0 0 q 0,7.3 -5.44,11.55 v 0 0 Q 26.75,0.64 16.06,0.64 v 0 0 Q 8.7,0.64 0.45,-0.32 Z m 17.41,-20.29 -3.2,16.58 v 0 q 0.57,0.06 0.7,0.06 v 0 h 0.58 v 0 q 5.24,0 7.48,-3.45 v 0 0 q 1.67,-2.69 1.67,-7.62 v 0 0 q 0,-2.62 -1.7,-4.03 v 0 0 q -1.69,-1.41 -5.53,-1.54 z m 9.72,-12.61 v 0 0 q 0,-5.31 -5.12,-5.31 v 0 h -0.57 v 0 q -0.26,0 -0.64,0.07 v 0 l -2.56,13.5 h 0.64 v 0 q 8.25,-0.19 8.25,-8.26 z m 29.57,29.7 v 0 0 q -1.98,4.8 -8.32,4.8 v 0 0 q -3.2,0 -5.25,-2.24 v 0 0 q -1.66,-1.86 -1.66,-3.97 v 0 0 q 0,-4.8 2.24,-15.29 v 0 l 4.67,-24.58 12.99,-1.28 -6.2,32.38 v 0 q -1.09,4.74 -1.09,6.4 v 0 0 q 0,3.65 2.62,3.78 z m 19.39,4.8 v 0 0 q -14.08,0 -14.08,-13.25 v 0 0 q 0,-9.41 5.19,-15.49 v 0 0 q 5.5,-6.46 15.04,-6.46 v 0 0 q 6.91,0 10.43,3.2 v 0 0 q 3.52,3.2 3.52,9.92 v 0 0 q 0,10.24 -5.5,16.19 v 0 0 q -5.38,5.89 -14.6,5.89 z m 1.67,-27.84 v 0 0 q -0.77,1.73 -1.38,4.32 v 0 0 q -0.61,2.59 -1.37,6.69 v 0 0 q -0.77,4.09 -0.77,9.15 v 0 0 q 0,1.66 0.54,2.75 v 0 0 q 0.55,1.09 2.02,1.09 v 0 0 q 1.47,0 2.4,-0.7 v 0 0 q 0.93,-0.71 1.63,-2.37 v 0 0 q 1.28,-2.95 2.3,-8.42 v 0 0 q 1.03,-5.47 1.12,-7.84 v 0 0 q 0.1,-2.37 0.1,-4.13 v 0 0 q 0,-1.76 -0.51,-2.91 v 0 0 q -0.51,-1.15 -1.95,-1.15 v 0 0 q -1.44,0 -2.4,0.9 v 0 0 q -0.96,0.89 -1.73,2.62 z m 26.75,-0.19 v 0 0 q 2.18,-3.07 5.47,-5.12 v 0 0 q 3.3,-2.05 7.33,-2.05 v 0 0 q 4.03,0 5.95,1.28 v 0 l 12.55,-1.28 -4.36,24.58 v 0 Q 129.66,3.2 124.93,8.13 v 0 0 q -4.55,4.67 -13.38,4.67 v 0 0 q -6.72,0 -10.56,-2.11 v 0 0 Q 97.15,8.58 97.15,5.06 v 0 0 q 0,-2.63 1.99,-4.13 v 0 0 q 1.98,-1.51 5.05,-1.51 v 0 0 q 2.69,0 4.74,1.22 v 0 0 q 1.21,0.64 1.79,1.54 v 0 0 q -1.47,1.28 -1.47,3.39 v 0 0 q 0,2.75 2.56,2.75 v 0 0 q 4.29,0 6.72,-10.11 v 0 0 q 0.7,-2.75 1.28,-5.51 v 0 0 q -2.88,3.52 -9.41,3.52 v 0 0 q -4.54,0 -7.17,-2.17 v 0 0 q -2.62,-2.18 -2.62,-7.3 v 0 0 q 0,-3.2 1.09,-6.81 v 0 0 q 1.08,-3.62 3.26,-6.69 z m 8.32,13.69 v 0 0 q 0,4.36 2.24,4.36 v 0 0 q 1.54,0 3.01,-1.67 v 0 0 q 1.15,-1.34 1.6,-3.33 v 0 l 3.26,-16.44 v 0 q -0.32,-0.07 -0.64,-0.2 v 0 0 q -0.64,-0.25 -1.47,-0.25 v 0 0 q -3.9,0 -6.21,6.4 v 0 0 q -1.79,4.99 -1.79,11.13 z m 72.06,-0.19 v 0 0 q 1.67,1.22 1.67,3.81 v 0 0 q 0,2.59 -1.12,4.42 v 0 0 q -1.12,1.82 -3.3,3.23 v 0 0 q -4.67,3.01 -12.83,3.01 v 0 0 q -8.16,0 -12.61,-4.26 v 0 0 Q 152.7,-7.3 152.7,-14.85 v 0 0 q 0,-10.69 5.57,-18.81 v 0 0 q 4.23,-6.02 11.78,-8.58 v 0 0 q 3.9,-1.28 7.74,-1.28 v 0 0 q 3.84,0 6.21,0.51 v 0 0 q 2.37,0.51 4.16,1.54 v 0 0 q 3.9,2.24 3.9,5.82 v 0 0 q 0,3.27 -3.07,5.7 v 0 0 q -2.81,2.17 -5.12,2.17 v 0 0 q -2.3,0 -3.26,-0.32 v 0 0 q 0.25,-2.3 0.25,-3.8 v 0 0 q 0,-1.51 -0.06,-2.6 v 0 0 q -0.06,-1.08 -0.38,-2.11 v 0 0 q -0.64,-2.37 -2.6,-2.37 v 0 0 q -1.95,0 -3.9,1.83 v 0 0 q -1.95,1.82 -3.62,4.89 v 0 0 q -3.77,6.98 -3.77,15.24 v 0 0 q 0,3.96 2.24,6.24 v 0 0 q 2.24,2.27 7.04,2.27 v 0 0 q 3.58,0 6.97,-2.37 v 0 0 q 1.48,-1.02 2.56,-2.37 z m 20.93,14.53 v 0 0 q -14.08,0 -14.08,-13.25 v 0 0 q 0,-9.41 5.19,-15.49 v 0 0 q 5.5,-6.46 15.04,-6.46 v 0 0 q 6.91,0 10.43,3.2 v 0 0 q 3.52,3.2 3.52,9.92 v 0 0 q 0,10.24 -5.51,16.19 v 0 0 q -5.37,5.89 -14.59,5.89 z m 1.67,-27.84 v 0 0 q -0.77,1.73 -1.38,4.32 v 0 0 q -0.61,2.59 -1.38,6.69 v 0 0 q -0.76,4.09 -0.76,9.15 v 0 0 q 0,1.66 0.54,2.75 v 0 0 q 0.54,1.09 2.02,1.09 v 0 0 q 1.47,0 2.4,-0.7 v 0 0 q 0.92,-0.71 1.63,-2.37 v 0 0 q 1.28,-2.95 2.3,-8.42 v 0 0 q 1.03,-5.47 1.12,-7.84 v 0 0 q 0.1,-2.37 0.1,-4.13 v 0 0 q 0,-1.76 -0.51,-2.91 v 0 0 q -0.52,-1.15 -1.96,-1.15 v 0 0 q -1.44,0 -2.4,0.9 v 0 0 q -0.96,0.89 -1.72,2.62 z m 42.36,-7.36 v 0 0 q 2.31,0 4.1,0.51 v 0 0 q 0.06,-0.25 0.19,-0.96 v 0 l 0.32,-1.98 v 0 q 0.26,-1.28 0.64,-3.39 v 0 l 1.03,-5.06 12.73,-1.28 -7.1,37.12 v 0 q -0.07,0.38 -0.07,1.02 v 0 1.03 0 q 0,1.41 0.71,2.46 v 0 0 q 0.7,1.06 1.85,1.06 v 0 0 q -1.28,3.01 -5.18,4.29 v 0 0 q -1.34,0.38 -3.23,0.38 v 0 0 q -1.89,0 -3.62,-0.99 v 0 0 q -1.73,-0.99 -2.24,-2.66 v 0 0 q -1.02,1.67 -3.07,2.66 v 0 0 q -2.05,0.99 -5.02,0.99 v 0 0 q -2.98,0 -5.44,-0.77 v 0 0 q -2.47,-0.77 -4,-2.43 v 0 0 q -2.82,-3.26 -2.82,-10.69 v 0 0 q 0,-9.6 5.63,-15.42 v 0 0 q 5.63,-5.89 14.59,-5.89 z m -0.44,3.84 v 0 0 q -2.37,0 -3.65,2.56 v 0 0 q -1.28,2.56 -2.59,8.9 v 0 0 q -1.32,6.33 -1.32,12.03 v 0 0 q 0,3.9 2.31,3.9 v 0 0 q 2.05,0 3.49,-2.05 v 0 0 q 1.44,-2.04 2.01,-5.44 v 0 l 3.46,-18.75 v 0 q -1.35,-1.15 -3.71,-1.15 z m 23.07,28.16 v 0 0 q -1.51,-1.66 -2.18,-4.29 v 0 0 q -0.67,-2.62 -0.67,-6.91 v 0 0 q 0,-4.29 1.47,-8.19 v 0 0 q 1.47,-3.91 4.16,-6.72 v 0 0 q 5.51,-5.89 14.59,-5.89 v 0 0 q 3.27,0 5.64,1.09 v 0 l 10.94,-1.09 -4.74,24.96 v 0 q -0.19,0.77 -0.19,2.18 v 0 0 q 0,1.4 0.87,2.3 v 0 0 q 0.86,0.9 2.14,1.02 v 0 0 q -0.64,2.18 -2.98,3.46 v 0 0 q -2.33,1.28 -4.96,1.28 v 0 0 q -2.62,0 -4.38,-0.99 v 0 0 q -1.76,-0.99 -2.27,-2.66 v 0 0 q -1.03,1.6 -3.2,2.63 v 0 0 q -2.18,1.02 -5.09,1.02 v 0 0 q -2.91,0 -5.28,-0.77 v 0 0 q -2.37,-0.77 -3.87,-2.43 z m 13.5,-25.98 v 0 0 q -0.73,1.15 -1.37,3.1 v 0 0 q -0.64,1.95 -1.7,7.17 v 0 0 q -1.06,5.21 -1.06,8.93 v 0 0 q 0,3.71 0.58,4.8 v 0 0 q 0.58,1.08 1.6,1.08 v 0 0 q 2.05,0 3.55,-1.95 v 0 0 q 1.51,-1.95 2.08,-5.41 v 0 l 3.39,-18.75 v 0 q -1.34,-1.15 -2.91,-1.15 v 0 0 q -1.57,0 -2.49,0.51 v 0 0 q -0.93,0.51 -1.67,1.67 z m 43.94,9.92 v 0 0 q 2.3,-4.1 2.3,-8.26 v 0 0 q 0,-2.75 -1.98,-2.75 v 0 0 q -1.54,0 -3.14,2.62 v 0 0 q -1.66,2.63 -2.17,6.02 v 0 L 322.05,0 308.8,1.28 l 6.53,-33.92 10.56,-1.28 -1.15,6.46 v 0 q 3.13,-6.46 10.17,-6.46 v 0 0 q 3.71,0 5.73,1.92 v 0 0 q 2.02,1.92 2.02,5.86 v 0 0 q 0,3.93 -2.6,6.43 v 0 0 q -2.59,2.49 -7,2.49 v 0 0 q -1.92,0 -2.69,-0.76 z"
+         inkscape:connector-curvature="0"
+         style="fill:#cccccc" />
+    </g>
+  </g>
+  <style
+     id="style1244">text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style>
+</svg>

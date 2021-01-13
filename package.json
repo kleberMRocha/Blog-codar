@@ -1,0 +1,22 @@
+{
+  "name": "blogcodar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleberMRocha/Blog-codar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kleberMRocha/Blog-codar/issues"
+  },
+  "homepage": "https://github.com/kleberMRocha/Blog-codar#readme",
+  "dependencies": {
+    "sass": "^1.32.4"
+  }
+}
