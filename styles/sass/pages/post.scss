@@ -1,8 +1,40 @@
+
+.postContainer{
+  display: flex;
+  padding: 0 5%;
+
+  @media (max-width: 800px) {
+    flex-direction: column;
+
+ }
+
+}
+
+.categories{
+  h3{
+    background-color: $lightOrange;
+    margin-top: 25px;
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+    padding:5px;
+    font-weight: bold;
+    color:$dark;
+  }
+}
+
+.category{
+  border-bottom: 1px $lightOrange solid;
+  color: $dark-purple;
+  margin-top: 5px;
+  
+
+}
 .post{
     max-width: 1200px;
     margin: 0 auto;
     img{
-        width: 100%;
+        width: 70%;
        
     }
     .post_title {
@@ -28,8 +60,8 @@
      }
      p {
         color: $dark-purple;
-        padding: 20px;
-        max-width: 100%;
+        padding: 20px 0;
+        max-width:500px;
         line-height: 20px;
         font-size: 20px;
       }
